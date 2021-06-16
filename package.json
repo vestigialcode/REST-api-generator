@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-generator",
+  "version": "1.0.0",
+  "description": "Unique api response as per request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vestigialcode/REST-api-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vestigialcode/REST-api-generator/issues"
+  },
+  "homepage": "https://github.com/vestigialcode/REST-api-generator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
